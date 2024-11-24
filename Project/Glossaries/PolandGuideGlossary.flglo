@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term0"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>city</Term>
+    </Terms>
+    <Definition
+      Link="">A big town.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>attraction</Term>
+    </Terms>
+    <Definition
+      Link="">A place to visit.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>hotel</Term>
+    </Terms>
+    <Definition
+      Link="">A place to sleep in.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term3"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Warsaw</Term>
+    </Terms>
+    <Definition
+      Link="">hell</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term4"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>town</Term>
+    </Terms>
+    <Definition
+      Link="">A smaller city.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term5"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>village</Term>
+    </Terms>
+    <Definition
+      Link="">A smaller town.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Poland</Term>
+    </Terms>
+    <Definition
+      Link="">A country located in central/eastern Europe.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>
